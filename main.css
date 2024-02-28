@@ -1,0 +1,42 @@
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+
+table {
+    width:  600px;
+    height: 800px;
+    display: inline-block;
+}
+
+.button {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    font-size: x-large;
+    background-color: #dcdcdca4;
+    border-radius: 20px;
+}
+
+#result {
+    width: 300px;
+    height: 60px;
+    background-color: darkgray;
+    text-align: right;
+    font-size: 50px;
+    overflow: hidden; 
+    white-space: nowrap; 
+}
+
+.button-6{
+    width: 146px;
+    height: 70px;
+    text-align: center;
+    font-size: x-large;
+    background-color: #dcdcdca4;
+    border-radius: 20px;
+}
+
+
+
